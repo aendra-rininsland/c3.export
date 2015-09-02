@@ -1,0 +1,21 @@
+{
+  "name": "c3.export",
+  "description": "",
+  "version": "0.0.0",
+  "main": "c3.export.js",
+  "ignore": [
+    "test",
+    ".jshintrc",
+    ".travis.yml",
+    "CHANGELOG.md",
+    "karma.conf.js",
+    "package.json"
+  ],
+  "devDependencies": {
+    "c3": "~0.4.10",
+    "chai": "*"
+  },
+  "dependencies": {
+    "svg-crowbar": "NYTimes/svg-crowbar#gh-pages"
+  }
+}
